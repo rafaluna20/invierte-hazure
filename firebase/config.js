@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBbuyd-foE8W4SHTVcMLl0txadTkmdQKR8",
-  authDomain: "inversion-5f045.firebaseapp.com",
-  projectId: "inversion-5f045",
-  storageBucket: "inversion-5f045.appspot.com",
-  messagingSenderId: "1005202064884",
-  appId: "1:1005202064884:web:262dbe1b4455a1a5aee5a1"
+  apiKey: "AIzaSyAJI5xv0QmAF3UcgNPwl8vKQXd7fGDDgcU",
+  authDomain: "inversiones-remate.firebaseapp.com",
+  projectId: "inversiones-remate",
+  storageBucket: "inversiones-remate.appspot.com",
+  messagingSenderId: "767379730596",
+  appId: "1:767379730596:web:8c9929ec46247688c13631"
 };
 
 export default firebaseConfig
